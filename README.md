@@ -25,3 +25,4 @@ Desarrollo conjunto de un sistema básico para la transferencia de archivos.
 
 Este proyecto conjunto fortaleció mis habilidades técnicas y capacidad para trabajar en equipo. Estoy comprometido con la mejora continua y ansioso por abordar nuevos desafíos en futuros proyectos.
 
+Video adjunto.
